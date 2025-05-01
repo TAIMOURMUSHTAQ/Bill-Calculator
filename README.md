@@ -35,3 +35,9 @@ This is a simple console-based application written in **C++** that calculates el
 g++ bill_calculator.cpp -o bill
 ./bill
 
+🙋‍♂️ **Author**
+Taimour Mushtaq
+🎓 BSCS Student at Federal Urdu University of Arts,Science and Technology, Islamabad Pakistan
+🔗 https://www.linkedin.com/in/taimourmushtaq/ |https://github.com/TAIMOURMUSHTAQ
+
+
